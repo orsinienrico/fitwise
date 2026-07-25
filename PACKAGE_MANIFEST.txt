@@ -1,0 +1,13 @@
+Fitwise Claude Code Package
+
+Files:
+- index.html
+- README.md
+- docs/CLAUDE_CODE_PROMPT.md
+- docs/PRODUCT_BRIEF.md
+- docs/TODO_FIXES.md
+- docs/IMPLEMENTATION_NOTES.md
+- archive/index_current_snapshot.html
+
+Purpose:
+Continue development of the Fitwise iPhone-first standalone HTML demo in Claude Code.
